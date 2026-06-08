@@ -58,4 +58,8 @@ Bu komut, rastgele dosyalar oluşturup sunucu ve istemciyi gerekli parametrelerl
 * `analyzer.py`: Çıkan `.csv` loglarını okuyan ve Goodput, Throughput, Retransmission Rate gibi performans verilerini hesaplayan modül.
 * `run_experiments.py`: Tüm sistemi otomatik çalıştırarak grafikleri çıkaran ana test betiği.
 
+## GitHub Deposu
+Projenin kaynak kodlarına ve tüm detaylarına aşağıdaki bağlantıdan ulaşabilirsiniz:
+[https://github.com/asrinaydin/NetProbe-UDP-Reliable-Transfer](https://github.com/asrinaydin/NetProbe-UDP-Reliable-Transfer)
+
 
